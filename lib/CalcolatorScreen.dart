@@ -90,7 +90,6 @@ class _CalcolatorScreenState extends State<CalcolatorScreen> {
             height: 10,
           ),
 
-          // Divider(color: Colors.blueGrey,),
 
           // This Expanded will displays the buttons with given ratio 
           Expanded(
@@ -130,7 +129,6 @@ class _CalcolatorScreenState extends State<CalcolatorScreen> {
           borderRadius: BorderRadius.circular(100),
           // This will decorate the buttons 
 
-          //Shadow
         ),
 
         // It will show the numbers and expressions on the buttons
